@@ -94,4 +94,25 @@ To make orders, you’ll also need ingredients, namely dough, sauce, cheese, and
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This is the main game loop of the game, we slowly expand our business, hire employees, buy supplies, upgrade equipment, and change our prices. Currently there are 181 Locations in the game, spread across nine regions, and multiple dozen countries. You begin the game barely able to keep your head above water paying for a few employees, and within a few years paying more in taxes than you made in your whole first year! Old Man Rick would be so proud!
 
+### Appendix
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The various reports are available at any time in the main options screen. In future versions, it is planned that these reports are unlocked by hiring various corporate employees whom 'write' these reports amongst other bonuses.
+<br>
+<div align="center">
+<img width="2082" height="492" alt="headcount" src="https://github.com/user-attachments/assets/7aa20ff3-c8d3-4332-8c32-eb46f6bb0f50" /><br>
+  <em>Appendix 1. The headcount report</em>
+</div>
+<br>
 
+<br>
+<div align="center">
+<img width="1909" height="461" alt="COGS" src="https://github.com/user-attachments/assets/582300b0-e98d-4f8b-9bd2-7576418a5ec0" /><br>
+  <em>Appendix 2. The 'Cost of Goods Sold' report</em>
+</div>
+<br>
+
+<br>
+<div align="center">
+  <img width="2012" height="514" alt="INVENTORY" src="https://github.com/user-attachments/assets/a6f214f9-361f-4363-bfd0-8fbd570e6ddc" /><br>
+  <em>Appendix 3. The inventory report</em>
+</div>
+<br>
